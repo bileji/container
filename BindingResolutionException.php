@@ -1,6 +1,6 @@
 <?php
 
-namespace Shuc324\Container;
+namespace Bileji\Container;
 
 use Exception;
 
